@@ -46,3 +46,6 @@ Example Output:
 - TOR might slow down scans. It’s normal. Multiple relay hops impact speed.
 - Security Warning: This script uses StrictHostKeyChecking=no for automation, which reduces security. Use SSH keys instead for production environments.
 - Logs: All scan results are saved in /var/log/nr.log. Check them if something goes wrong.
+
+# Documentation
+- [Network Research Report](docs/NR_Report.pdf)
