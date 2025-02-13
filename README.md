@@ -12,7 +12,7 @@ This is a Bash script designed to automate network research tasks and enhance us
 #How to Use:
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/network-research.git
+git clone https://github.com/huathuathuatt/Network-Research-Automation-Script.git
 ```
 2. Make it executable:
 ```bash
